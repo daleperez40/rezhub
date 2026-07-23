@@ -1,6 +1,3 @@
--- RedzHub Adaptado para PC - Versión Standalone
--- Compatible con Xeno, Synapse X, KRNL, Fluxus, Codex, Delta
-
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local VirtualUser = game:GetService("VirtualUser")
